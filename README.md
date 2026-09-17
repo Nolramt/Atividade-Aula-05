@@ -37,7 +37,7 @@ O site possui **11 páginas HTML**, conectadas por meio de um menu de navegaçã
 | `personagens.html` | Personagem do jogador, classes e personalização |
 | `biomas.html` | Principais biomas encontrados no jogo |
 | `chefes.html` | Chefes de Pré-Hardmode e Hardmode |
-| `itens.html` | Itens, armas e armaduras das diferentes classes |
+| `itens.html` | armas e armaduras finais das classes |
 | `npcs.html` | Informações sobre NPCs e suas condições |
 | `eventos.html` | Eventos de Pré-Hardmode e Hardmode |
 | `progressao.html` | Etapas e evolução da progressão no jogo |
